@@ -3,7 +3,8 @@
 Pivoting is a Post exploitation technique which utilises a compromised host to attack other systems on the private Internal network.<br>
 Imagine you have compromised a host in `192.168.10.0/24` subnet and that host is also part of another subnet `10.10.10.1/24`. This really introduces more systems opening large attack surface.
 
-![[pivoting.png]]
+![pivoting](https://github.com/ab3lsec/eJPTv2CourseNotes/assets/87868050/e217f6d9-fc2d-4b7a-ab10-f9eb47370ca3)
+
 
 #### HOW TO PIVOT TO OTHER SUBNETS:
 
