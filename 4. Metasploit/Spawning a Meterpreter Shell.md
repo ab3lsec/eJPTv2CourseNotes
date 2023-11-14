@@ -1,6 +1,5 @@
-### METHOD 1:
-
-#### SPAWNING A METERPRETER SHELL
+# Upgrading a Shell to Meterpreter
+#### METHOD 1:
 
 1. Background the current session.
 2. Then load the following module
