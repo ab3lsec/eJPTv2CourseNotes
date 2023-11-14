@@ -5,11 +5,11 @@ Welcome to the comprehensive repository for my study notes and resources from th
 
 ### What's Inside
 Explore detailed notes covering the topics required to pass the eJPTv2 Certification Exam.
-- Information Gathering and Scanning: Identifying Active hosts, Passive and active information gathering .
-- Enumeration and Vulnerability Assessment: In-depth analysis of system enumeration and vulnerability assessment.
-- Exploitation: Strategies for exploiting vulnerabilities in Windows and Linux.
-- Post Exploitation and Privilege Escalation: Understanding the aftermath of successful exploitation and methods to escalate privileges.
-- Web Application Testing: Discusses Web App Enumeration, SQL Injection and Cross Site Scripting attacks.
+- **Information Gathering and Scanning**: Identifying Active hosts, Passive and active information gathering .
+- **Enumeration and Vulnerability Assessment**: In-depth analysis of system enumeration and vulnerability assessment.
+- **Exploitation**: Strategies for exploiting vulnerabilities in Windows and Linux.
+- **Post Exploitation and Privilege Escalation**: Understanding the aftermath of successful exploitation and methods to escalate privileges.
+- **Web Application Testing**: Discusses Web App Enumeration, SQL Injection and Cross Site Scripting attacks.
 
 Check out INE's PTSv2 Learning Path to prepare yourself for eJPTv2: [Penetration Testing Student v2](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student-v2)
 <br>
