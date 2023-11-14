@@ -14,7 +14,7 @@ Explore detailed notes covering the topics required to pass the eJPTv2 Certifica
 Check out INE's PTSv2 Learning Path to prepare yourself for eJPTv2: [Penetration Testing Student v2](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student-v2)
 <br>
 You can follow me on:
-Twitter: https://twitter.com/ab3lsec
-LinkedIn: https://www.linkedin.com/in/ab3lsec/
-Medium: https://medium.com/@ab3lsec
+- Twitter: https://twitter.com/ab3lsec
+- LinkedIn: https://www.linkedin.com/in/ab3lsec/
+- Medium: https://medium.com/@ab3lsec
 
