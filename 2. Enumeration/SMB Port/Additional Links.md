@@ -1,0 +1,1 @@
+https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
