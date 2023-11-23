@@ -1,7 +1,7 @@
 # Penetration Testing Student v2 (PTSv2) Course Notes
 
 ### Overview
-Welcome to the comprehensive repository for my study notes and resources from the Penetration Testing Student v2 (PTSv2) course offered by INE! Whether you're currently enrolled in the course, preparing for the certification exam, or just exploring the world of penetration testing, this repository aims to be a valuable resource.
+Welcome to my eJPTv2 Certification Notes repository! Here, you'll find a comprehensive collection of my study notes that helped me successfully achieve the eLearnSecurity Junior Penetration Tester v2 (eJPTv2) certification.
 
 ### What's Inside
 Explore detailed notes covering the topics required to pass the eJPTv2 Certification Exam.
